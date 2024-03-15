@@ -37,14 +37,14 @@ const HeroSection = () => {
           Crafting Digital Experiences from Front to Back:
           </p>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl text-justify">
-          Your Full Stack Developer Journey Begins Here
+          Your Full Stack Developer Journey Begins Here.
           </p>
           <div>
             <Link
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 to-blue-600 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Contact Me
             </Link>
             <Link
               href="/"
